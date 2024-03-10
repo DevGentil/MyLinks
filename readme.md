@@ -22,6 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O MyLinks é um agregador de links para usar como cartão de visitas online. Personalize com suas próprias fotos, links e informações de perfil.
 
-- [Acesse o MyLinks finalizado](https://devgentilio.github.io/MyLinks)
+- (https://devgentilio.github.io/MyLinks)
 
 Feito com ❤️ por [DevGentil](https://github.com/DevGentil).
